@@ -1,0 +1,15 @@
+{
+  "name": "nginx-test",
+  "version": "1.0.0",
+  "description": "nginx-test-icm",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "jacksonweber",
+  "license": "ISC",
+  "dependencies": {
+    "applicationinsights": "^2.7.0",
+    "express": "^4.18.2"
+  }
+}
